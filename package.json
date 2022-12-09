@@ -20,7 +20,7 @@
   "homepage": "https://github.com/elkinegora/cooperative_todo-list",
   "dependencies": {
     "@types/node": "^10.12.18",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-sortable-hoc": "^0.8.4",
